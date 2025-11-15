@@ -2,6 +2,25 @@
 
 Este repositório contém o notebook e os resultados do Trabalho 2 da disciplina FIA (Prof. Edjard Mota), focado na construção de um classificador binário para detecção de doenças cardíacas.
 
+## 👨👩 Equipe
+
+- FERNANDA SOUZA DE FREITAS
+- GABRIEL DA SILVA GLÓRIA
+- JULIO CESAR CERRATE CASTRO
+- MUSKAAN RAMCHANDANI
+- PEDRO HENRIQUE BARROS MENDONÇA
+- RUAN COSTA DE MAGALHÃES
+---
+### 📩 Email
+
+- fernanda.freitas@icomp.ufam.edu.br
+- gabriel.gloria@icomp.ufam.edu.br
+- julio.cesar@icomp.ufam.edu.br
+- muskaan.ramchandani@icomp.ufam.edu.br
+- pedro.mendonca@icomp.ufam.edu.br
+- ruan.costa@icomp.ufam.edu.br
+---
+
 ## 🤔 1. Descrição do Problema
 
 As doenças cardiovasculares são a principal causa de morte em todo o mundo, tornando a detecção precoce um desafio crítico para a saúde pública. O objetivo deste projeto é construir um modelo de classificação binária capaz de prever, com base em atributos clínicos, a **presença (1)** ou **ausência (0)** de doença cardíaca em um paciente.
