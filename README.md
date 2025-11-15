@@ -66,3 +66,5 @@ A matriz de confusão visualiza os 12 erros cometidos pelo modelo nas 61 previs�
 * **27 Verdadeiros Positivos** (Corretamente previstos como "Com Doença")
 * **6 Falsos Positivos** (Erro: Pacientes saudáveis classificados como doentes)
 * **6 Falsos Negativos** (Erro: Pacientes doentes classificados como saudáveis)
+* <img width="731" height="583" alt="image" src="https://github.com/user-attachments/assets/1aa4ffe4-c0c5-4874-a9b2-7af9ea841819" />
+
